@@ -1,3 +1,6 @@
 [submodule "MERNFullStackECommerce"]
 	path = MERNFullStackECommerce
 	url = https://github.com/michael-steinert-repository/MERNFullStackECommerce.git
+[submodule "MERNStackWebApp"]
+	path = MERNStackWebApp
+	url = https://github.com/michael-steinert-repository/MERNStackWebApp.git
